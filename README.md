@@ -5,3 +5,20 @@
 </h1>
 
 A full-stack AI Student about building wonderful, functional, and user-centric AI models.
+
+
+   I’m currently learning robotics 
+   Ask me about python, ML, DL...or anything here
+
+<br>
+
+<div align="center">
+  <a href="najdbintabdullah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/yara-alshedokhi-sa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
