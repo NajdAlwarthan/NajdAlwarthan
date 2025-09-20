@@ -1,4 +1,4 @@
-<img src="https://github.com/NajdAlwarthan/NajdAlwarthan/blob/main/Screenshot%202025-09-20%20141909.png" alt="github banner"/>
+<img src="https://github.com/NajdAlwarthan/NajdAlwarthan/blob/main/Twitter%20header.jpg" alt="github banner"/>
 
 <div align="center"> 
   <p>Visitor count</p>
