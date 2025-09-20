@@ -22,3 +22,13 @@ A full-stack AI Student about building wonderful, functional, and user-centric A
 </div>
 
 <hr>
+
+🛠️ Languages and Tools
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,open-cv,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
+</p>
+
+<hr>
