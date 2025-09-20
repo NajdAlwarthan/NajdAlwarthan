@@ -7,7 +7,7 @@
 A full-stack AI Student about building wonderful, functional, and user-centric AI models.
 
 
-   I’m currently learning robotics 
+   I’m currently learning about robotics 
    Ask me about python, ML, DL...or anything here
 
 <br>
